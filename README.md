@@ -4,7 +4,7 @@
 
 Advanced biometric access control system built with ESP32 that provides secure, fast, and remotely monitored door access.
 
-<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/60d09d62-caf5-456b-a357-eea4b2435336" />
+<img width="720" height="390" alt="image" src="https://github.com/user-attachments/assets/3a946aa5-b789-4d3a-9c4a-0e6195e431df" />
 <img width="720" height="1454" alt="image" src="https://github.com/user-attachments/assets/e947e299-3334-4e5c-b7f1-19abb000797b" />
 
 
