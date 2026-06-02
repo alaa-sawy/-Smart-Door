@@ -33,9 +33,13 @@ Advanced biometric access control system built with ESP32 that provides secure, 
 
 ## 📁 Project Structure
 ├── PA.ino              # Main program (Door operation)
+
 ├── En2.ino             # Fingerprint Enrollment program
+
 ├── Circuit Diagram
+
 ├── Presentation.pdf
+
 └── Demo Video
 
 ## 🚀 How to Use
